@@ -120,6 +120,7 @@
                 'container'             => false,
                 'fallback_cb'           => false,
                 'depth'                 => 4
+                // 'walker'                => new JU_Custom_Nav_Walker()
               ]);
             }
 
